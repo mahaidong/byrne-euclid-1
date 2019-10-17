@@ -1,7 +1,7 @@
 # byrne-euclid
 A digitalization of Byrne's Euclid.
 
-**The project can be previewed [here](http://htmlpreview.github.io/?https://github.com/overbk/byrne-euclid/blob/master/book1/definitions/definitions.html).**
+**The project can be conveniently previewed [here](https://rawcdn.githack.com/overbk/byrne-euclid/8c331998bb25167048c3b84155080c4c58715ea7/book1/definitions/definitions.html).**
 
 Byrne's Euclid is a graphical rendition of Euclid's Elements, using visuals instead of names in mathematical proofs. Besides its interesting didactic approach, the book is also appreciated for its absolutely beautiful typesetting and graphic design.
 
