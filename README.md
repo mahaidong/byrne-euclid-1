@@ -1,5 +1,5 @@
 # byrne-euclid
-A digitalization of Byrne's Euclid.
+A digitalization of Byrne's Euclid, featuring interactive constructions.
 
 **The project can be conveniently previewed [here](https://rawcdn.githack.com/overbk/byrne-euclid/8c331998bb25167048c3b84155080c4c58715ea7/book1/definitions/definitions.html).**
 
